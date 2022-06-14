@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.center{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1280px;
+    margin:0;
+    padding:0 2%;
+    font-family: serif
+}
+ header{
+     padding: 20px 0;
+ }
+.logo{
+    width: 50%;
+    max-width: 200px;
+
+}
+
+.menu{
+    width: 50%;
+    text-align:right ;
+}
+
+.menu a{
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 15px;
+   
+   
+  
+}
+
+body{
+    background-color: black;
+    background-image: url() ;
+    height: 100vh;
+    width: 100%;
+    color: #43434343;
+    
+    
+    
+    
+   
+
+}
+.p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+   
+}
+
+.li{
+    list-style-type: none;
+
+}
+
+.conteudo{
+    display: flex;
+    flex-direction: column;
+    color: white;
+   
+}
+   
+h1{
+    text-align: top;
+}
+
+li img{
+    width: 20%;
+    height: 20%;
+    vertical-align: middle;
+}
+
+.textperso{
+    color: white;
+}
+
+
+
+
+
+main.cards section.cards img {
+    width: 80px;
+    
+    
+}
+
+main.cards section.cards{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ text-align: center;
+ padding: 1rem 1.5rem;
+ border-radius: 8px ;
+ max-height: 265px;
+ margin-left: 32px;
+ margin: 190px;
+ 
+
+}
+
+main.cards section.cards button {
+    padding: 0.5rem 1rem;
+    text-transform: uppercase;
+    border-radius: 32px;
+    border: 0;
+    cursor: pointer;
+    font-size: 80%;
+    font-weight: 500;
+    background: linear-gradient(to right, red,white);
+    
+
+}
+
+main.cards section.cards span{
+    font-weight: 300;
+    max-width: 240px;
+    font-size: 80%;
+    margin-bottom: 16px;
+    color: white;
+    border: 10px solid red;
+}
+
+
+main.cards section.cards h3{
+    color: white;
+}
+
+main.cards{
+    border: 12px solid red;
+}
+
+.footer{
+    color: white;
+    margin-top: 20px;
+    border-top: 7px red solid;
+    
+}
+
+.historia{
+    color:  white;
+    text-align: center;
+    
+    
+}
+
+.airplane{
+    text-align: center;
+    border-bottom: 12px red solid;
+}
+
+.sobre{
+    width: 240px;
+    color: white;
+    text-align: left;
+}
+
+.imgsobre{
+    width: 80px;
+}
+
+.imgennis{
+    width: 80px;
+}
+
+
+
+
